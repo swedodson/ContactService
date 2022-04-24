@@ -1,5 +1,9 @@
 # ContactService
 
-How can I ensure that my code, program, or software is functional and secure?
-How do I interpret user needs and incorporate them into a program?
-How do I approach designing software?
+This README file is a summary of how I approached the Contact Service project and how it pertains to my approach to software design and security.
+
+A critical component of software testing and quality assurance if knowing when, and if, your code is functional and secure. For this project, I focused on creating JUnit tests for a create, read, update, delete (C.R.U.D.) Java Application to ensure the functionality and security of the code I created. Developing test cases and testing your own code is just as important as writing the code itself. If your software is not secure or it doesn't meet the specific requirements for functionality, then you won't be successful as a developer and your business will suffer. Therefore, I approach all projects, including this one, from the perspective of the user and the client. 
+
+I’m always taking into consideration the user’s needs and their expectations of security while simultaneously trying to meet all of the client's requirements for the functionality of a program. When designing software, including this program, I think about all the possible user types that may use the software and consider their individual needs and what they would want from the software in its final state. I rely on object-oriented principles of encapsulation, abstraction, inheritance, and polymorphism for secure coding. I design my projects to include these principles in order to protect data that the user may input into the system and to ensure the program cannot be compromised by a malicious agent. I also ensure that private data is protected with secure data structures, APIs, and ciphers.
+
+From my perspective, security comes before functionality. So, if there is a requirement of the client that cannot be done securely then I will find another way to provide this requirement in a manner that is secure for the user. If another way cannot be found, then I will be upfront and honest to the client about the security implications and exposures. As a developer, I adhere to a code of ethics that has its foundation in secure and efficient coding, honest business interactions, and user privacy. At the end of the day, we are all users to one extent or another and should not have our sensitive information compromised by untested and vulnerable programs.
